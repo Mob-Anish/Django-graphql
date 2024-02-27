@@ -1,0 +1,14 @@
+*.env
+*.idea
+__pycache__/
+*.pyc
+**/__pycache__
+**/*.pyc
+**/migrations/*.py
+migrations/*.py
+/env/
+/venv
+.vscode/
+Pipfile
+Pipfile.lock
+*.graphql
